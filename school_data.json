@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-11T18:23:53.200078",
+  "updatedAt": "2026-09-11T21:30:31.485654",
   "schoolInfo": {
-    "schoolName": "Bideyiz kənd tam orta məktəb",
+    "schoolName": "Bideyiz kənd",
     "principalName": "Pənah Alxasov",
     "academicYear": "2026-2027",
     "effectiveDate": "15 sentyabr 2026",
@@ -13,8 +13,16 @@
       "id": "t_1789135426280",
       "fullName": "Rufət",
       "shortName": "Rufət",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135607524",
+        "sub_1789135602582",
+        "sub_1789139957244",
+        "sub_1789139968017",
+        "sub_1789139935026"
+      ],
+      "classIds": [
+        "c_1789134281277"
+      ],
       "availableDays": [
         1,
         2,
@@ -24,16 +32,24 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 17,
       "allowGaps": true,
-      "dutyDays": []
+      "dutyDays": [
+        2
+      ]
     },
     {
       "id": "t_1789135432904",
       "fullName": "Samirə",
       "shortName": "Samirə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135602582",
+        "sub_1789135607524"
+      ],
+      "classIds": [
+        "c_1789134305200",
+        "c_1789134292797"
+      ],
       "availableDays": [
         1,
         2,
@@ -43,7 +59,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 28,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -51,8 +67,17 @@
       "id": "t_1789135439476",
       "fullName": "Günel",
       "shortName": "Günel",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139957244",
+        "sub_1789139968017",
+        "sub_1789140002836",
+        "sub_1789139973821",
+        "sub_1789139935026"
+      ],
+      "classIds": [
+        "c_1789134292797",
+        "c_1789134305200"
+      ],
       "availableDays": [
         1,
         2,
@@ -62,7 +87,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 16,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -70,18 +95,21 @@
       "id": "t_1789135446099",
       "fullName": "Lalə",
       "shortName": "Lalə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139973821"
+      ],
+      "classIds": [
+        "c_1789134281277"
+      ],
       "availableDays": [
         1,
         2,
         3,
-        4,
-        5
+        4
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 1,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -89,8 +117,15 @@
       "id": "t_1789135450839",
       "fullName": "Aytəkin",
       "shortName": "Aytəkin",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135602582",
+        "sub_1789135607524",
+        "sub_1789139968017",
+        "sub_1789140002836"
+      ],
+      "classIds": [
+        "c_1789134318619"
+      ],
       "availableDays": [
         1,
         2,
@@ -100,7 +135,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 17,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -108,18 +143,24 @@
       "id": "t_1789135454727",
       "fullName": "Cavid",
       "shortName": "Cavid",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139982127"
+      ],
+      "classIds": [
+        "c_1789134281277",
+        "c_1789134318619",
+        "c_1789135252481",
+        "c_1789135345608"
+      ],
       "availableDays": [
         1,
         2,
-        3,
         4,
         5
       ],
-      "minSlot": 1,
+      "minSlot": 3,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 10,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -127,8 +168,18 @@
       "id": "t_1789135491501",
       "fullName": "Şahnaz",
       "shortName": "Şahnaz",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139982127"
+      ],
+      "classIds": [
+        "c_1789135260182",
+        "c_1789134305200",
+        "c_1789134292797",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135360002",
+        "c_1789135374424"
+      ],
       "availableDays": [
         1,
         2,
@@ -136,9 +187,9 @@
         4,
         5
       ],
-      "minSlot": 1,
+      "minSlot": 3,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 23,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -146,18 +197,22 @@
       "id": "t_1789135495785",
       "fullName": "Mənzər",
       "shortName": "Mənzər",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139968017",
+        "sub_1789140002836"
+      ],
+      "classIds": [
+        "c_1789135260182",
+        "c_1789135318492",
+        "c_1789135345608"
+      ],
       "availableDays": [
-        1,
         2,
-        3,
-        4,
-        5
+        4
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 5,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -165,18 +220,22 @@
       "id": "t_1789135498991",
       "fullName": "Asimə",
       "shortName": "Asimə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139968017",
+        "sub_1789140002836"
+      ],
+      "classIds": [
+        "c_1789135252481",
+        "c_1789135267413",
+        "c_1789135260182"
+      ],
       "availableDays": [
         1,
-        2,
-        3,
-        4,
-        5
+        3
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 5,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -184,8 +243,14 @@
       "id": "t_1789135513229",
       "fullName": "İradə",
       "shortName": "İradə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135607524"
+      ],
+      "classIds": [
+        "c_1789135345608",
+        "c_1789135360002",
+        "c_1789135374424"
+      ],
       "availableDays": [
         1,
         2,
@@ -195,7 +260,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 15,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -203,8 +268,15 @@
       "id": "t_1789135519610",
       "fullName": "Vidadi",
       "shortName": "Vidadi",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135607524"
+      ],
+      "classIds": [
+        "c_1789135252481",
+        "c_1789135260182",
+        "c_1789135267413",
+        "c_1789135318492"
+      ],
       "availableDays": [
         1,
         2,
@@ -214,7 +286,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 20,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -222,8 +294,23 @@
       "id": "t_1789135523440",
       "fullName": "Təranə",
       "shortName": "Təranə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135611700",
+        "sub_1789135711023",
+        "sub_1789147107562"
+      ],
+      "classIds": [
+        "c_1789135374424",
+        "c_1789134281277",
+        "c_1789134305200",
+        "c_1789134318619",
+        "c_1789135252481",
+        "c_1789135260182",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608",
+        "c_1789135360002"
+      ],
       "availableDays": [
         1,
         2,
@@ -233,7 +320,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 26,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -241,8 +328,18 @@
       "id": "t_1789135539675",
       "fullName": "Nazənin",
       "shortName": "Nazənin",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135680468",
+        "sub_1789135618884"
+      ],
+      "classIds": [
+        "c_1789135252481",
+        "c_1789135260182",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608",
+        "c_1789135360002"
+      ],
       "availableDays": [
         1,
         2,
@@ -252,7 +349,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 15,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -260,8 +357,19 @@
       "id": "t_1789135544262",
       "fullName": "Səidə",
       "shortName": "Səidə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135697260",
+        "sub_1789135704823",
+        "sub_1789147107562"
+      ],
+      "classIds": [
+        "c_1789135252481",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608",
+        "c_1789135360002",
+        "c_1789135374424"
+      ],
       "availableDays": [
         1,
         2,
@@ -277,10 +385,19 @@
     },
     {
       "id": "t_1789135548730",
-      "fullName": "Samirə",
-      "shortName": "Samirə",
-      "subjectIds": [],
-      "classIds": [],
+      "fullName": "A. Samirə",
+      "shortName": "A. Samirə",
+      "subjectIds": [
+        "sub_1789135602582",
+        "sub_1789147271821"
+      ],
+      "classIds": [
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608",
+        "c_1789135360002",
+        "c_1789135374424"
+      ],
       "availableDays": [
         1,
         2,
@@ -290,7 +407,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 26,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -298,8 +415,16 @@
       "id": "t_1789135559217",
       "fullName": "Rafiq",
       "shortName": "Rafiq",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139973821"
+      ],
+      "classIds": [
+        "c_1789135252481",
+        "c_1789135260182",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608"
+      ],
       "availableDays": [
         1,
         2,
@@ -309,7 +434,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 5,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -317,8 +442,18 @@
       "id": "t_1789135565234",
       "fullName": "Sevinc",
       "shortName": "Sevinc",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789139935026"
+      ],
+      "classIds": [
+        "c_1789135252481",
+        "c_1789135374424",
+        "c_1789135260182",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608",
+        "c_1789135360002"
+      ],
       "availableDays": [
         1,
         2,
@@ -328,16 +463,21 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 14,
       "allowGaps": true,
       "dutyDays": []
     },
     {
       "id": "t_1789135568578",
-      "fullName": "Ülkər",
-      "shortName": "Ülkər",
-      "subjectIds": [],
-      "classIds": [],
+      "fullName": "Ülvi",
+      "shortName": "Ülvi",
+      "subjectIds": [
+        "sub_1789147397736"
+      ],
+      "classIds": [
+        "c_1789135360002",
+        "c_1789135374424"
+      ],
       "availableDays": [
         1,
         2,
@@ -347,7 +487,7 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 4,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -355,18 +495,22 @@
       "id": "t_1789135576098",
       "fullName": "Dilarə",
       "shortName": "Dilarə",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135602582",
+        "sub_1789147271821"
+      ],
+      "classIds": [
+        "c_1789135260182"
+      ],
       "availableDays": [
         1,
         2,
         3,
-        4,
-        5
+        4
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 6,
       "allowGaps": true,
       "dutyDays": []
     },
@@ -374,8 +518,13 @@
       "id": "t_1789135579919",
       "fullName": "Pənah",
       "shortName": "Pənah",
-      "subjectIds": [],
-      "classIds": [],
+      "subjectIds": [
+        "sub_1789135680468",
+        "sub_1789135618884"
+      ],
+      "classIds": [
+        "c_1789135374424"
+      ],
       "availableDays": [
         1,
         2,
@@ -385,7 +534,35 @@
       ],
       "minSlot": 1,
       "maxSlot": 7,
-      "maxWeeklyHours": 24,
+      "maxWeeklyHours": 3,
+      "allowGaps": true,
+      "dutyDays": []
+    },
+    {
+      "id": "t_1789147824309",
+      "fullName": "Toğrul",
+      "shortName": "Toğrul",
+      "subjectIds": [
+        "sub_1789135689456"
+      ],
+      "classIds": [
+        "c_1789135260182",
+        "c_1789135267413",
+        "c_1789135318492",
+        "c_1789135345608",
+        "c_1789135360002",
+        "c_1789135374424"
+      ],
+      "availableDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "minSlot": 1,
+      "maxSlot": 5,
+      "maxWeeklyHours": 12,
       "allowGaps": true,
       "dutyDays": []
     }
@@ -525,6 +702,141 @@
         6,
         7
       ]
+    },
+    {
+      "id": "sub_1789139935026",
+      "name": "Fiziki tərbiyə",
+      "shortName": "Fiziki tərbiyə",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789139957244",
+      "name": "Həyat bilgisi",
+      "shortName": "Həyat bilgisi",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789139968017",
+      "name": "Texnologiya",
+      "shortName": "Texnologiya",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789139973821",
+      "name": "Musiqi",
+      "shortName": "Musiqi",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789139982127",
+      "name": "İngilis dili",
+      "shortName": "İngilis dili",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789140002836",
+      "name": "Təsviri İncəsənət",
+      "shortName": "Təsviri İncəsənət",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789147107562",
+      "name": "Təbiət",
+      "shortName": "Təbiət",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789147271821",
+      "name": "Ədəbiyyat",
+      "shortName": "Ədəbiyyat",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "sub_1789147397736",
+      "name": "Hərbi",
+      "shortName": "Hərbi",
+      "colorHex": "#3B82F6",
+      "allowedSlots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     }
   ],
   "classes": [
@@ -532,33 +844,25 @@
       "id": "c_1789134281277",
       "name": "I",
       "orderIndex": 1,
-      "classTeacherId": null,
+      "classTeacherId": "t_1789135426280",
       "maxDailyLessons": 5,
-      "weeklyHoursLimit": 30
-    },
-    {
-      "id": "c_1789134292797",
-      "name": "II",
-      "orderIndex": 2,
-      "classTeacherId": null,
-      "maxDailyLessons": 5,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 22
     },
     {
       "id": "c_1789134305200",
       "name": "III",
       "orderIndex": 3,
-      "classTeacherId": null,
+      "classTeacherId": "t_1789135432904",
       "maxDailyLessons": 6,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 24
     },
     {
       "id": "c_1789134318619",
       "name": "IV",
       "orderIndex": 4,
-      "classTeacherId": null,
+      "classTeacherId": "t_1789135450839",
       "maxDailyLessons": 6,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 24
     },
     {
       "id": "c_1789135252481",
@@ -566,7 +870,7 @@
       "orderIndex": 5,
       "classTeacherId": null,
       "maxDailyLessons": 7,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 25
     },
     {
       "id": "c_1789135260182",
@@ -574,7 +878,7 @@
       "orderIndex": 6,
       "classTeacherId": null,
       "maxDailyLessons": 7,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 28
     },
     {
       "id": "c_1789135267413",
@@ -582,7 +886,7 @@
       "orderIndex": 7,
       "classTeacherId": null,
       "maxDailyLessons": 7,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 31
     },
     {
       "id": "c_1789135318492",
@@ -590,7 +894,7 @@
       "orderIndex": 8,
       "classTeacherId": null,
       "maxDailyLessons": 7,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 32
     },
     {
       "id": "c_1789135345608",
@@ -598,7 +902,7 @@
       "orderIndex": 9,
       "classTeacherId": null,
       "maxDailyLessons": 0,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 33
     },
     {
       "id": "c_1789135360002",
@@ -606,7 +910,7 @@
       "orderIndex": 10,
       "classTeacherId": null,
       "maxDailyLessons": 0,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 32
     },
     {
       "id": "c_1789135374424",
@@ -614,10 +918,123 @@
       "orderIndex": 11,
       "classTeacherId": null,
       "maxDailyLessons": 0,
-      "weeklyHoursLimit": 30
+      "weeklyHoursLimit": 32
     }
   ],
-  "assignments": [],
+  "assignments": [
+    {
+      "id": "ass_1789140380231_t_1789135432904_sub_1789135602582",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789135602582",
+      "teacherId": "t_1789135432904",
+      "weeklyHours": 9
+    },
+    {
+      "id": "ass_1789140382360_t_1789135432904_sub_1789135607524",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789135607524",
+      "teacherId": "t_1789135432904",
+      "weeklyHours": 5
+    },
+    {
+      "id": "ass_1789140385167_t_1789135450839_sub_1789135602582",
+      "classId": "c_1789134318619",
+      "subjectId": "sub_1789135602582",
+      "teacherId": "t_1789135450839",
+      "weeklyHours": 9
+    },
+    {
+      "id": "ass_1789140387022_t_1789135450839_sub_1789135607524",
+      "classId": "c_1789134318619",
+      "subjectId": "sub_1789135607524",
+      "teacherId": "t_1789135450839",
+      "weeklyHours": 5
+    },
+    {
+      "id": "ass_1789140392036_t_1789135450839_sub_1789139968017",
+      "classId": "c_1789134318619",
+      "subjectId": "sub_1789139968017",
+      "teacherId": "t_1789135450839",
+      "weeklyHours": 2
+    },
+    {
+      "id": "ass_1789140392562_t_1789135450839_sub_1789140002836",
+      "classId": "c_1789134318619",
+      "subjectId": "sub_1789140002836",
+      "teacherId": "t_1789135450839",
+      "weeklyHours": 1
+    },
+    {
+      "id": "ass_1789140395962_t_1789135439476_sub_1789139957244",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789139957244",
+      "teacherId": "t_1789135439476",
+      "weeklyHours": 2
+    },
+    {
+      "id": "ass_1789140396386_t_1789135439476_sub_1789139968017",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789139968017",
+      "teacherId": "t_1789135439476",
+      "weeklyHours": 2
+    },
+    {
+      "id": "ass_1789140399887_t_1789135439476_sub_1789140002836",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789140002836",
+      "teacherId": "t_1789135439476",
+      "weeklyHours": 1
+    },
+    {
+      "id": "ass_1789140400202_t_1789135439476_sub_1789139973821",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789139973821",
+      "teacherId": "t_1789135439476",
+      "weeklyHours": 1
+    },
+    {
+      "id": "ass_1789140400625_t_1789135439476_sub_1789139935026",
+      "classId": "c_1789134305200",
+      "subjectId": "sub_1789139935026",
+      "teacherId": "t_1789135439476",
+      "weeklyHours": 2
+    },
+    {
+      "id": "ass_1789143008160_t_1789135426280_sub_1789135602582",
+      "classId": "c_1789134281277",
+      "subjectId": "sub_1789135602582",
+      "teacherId": "t_1789135426280",
+      "weeklyHours": 5
+    },
+    {
+      "id": "ass_1789143009630_t_1789135426280_sub_1789135607524",
+      "classId": "c_1789134281277",
+      "subjectId": "sub_1789135607524",
+      "teacherId": "t_1789135426280",
+      "weeklyHours": 8
+    },
+    {
+      "id": "ass_1789143525501_t_1789135426280_sub_1789139935026",
+      "classId": "c_1789134281277",
+      "subjectId": "sub_1789139935026",
+      "teacherId": "t_1789135426280",
+      "weeklyHours": 2
+    },
+    {
+      "id": "ass_1789143525982_t_1789135426280_sub_1789139968017",
+      "classId": "c_1789134281277",
+      "subjectId": "sub_1789139968017",
+      "teacherId": "t_1789135426280",
+      "weeklyHours": 1
+    },
+    {
+      "id": "ass_1789143526195_t_1789135426280_sub_1789139957244",
+      "classId": "c_1789134281277",
+      "subjectId": "sub_1789139957244",
+      "teacherId": "t_1789135426280",
+      "weeklyHours": 1
+    }
+  ],
   "bellSchedule": {
     "lessonDurationMinutes": 45,
     "schoolStartTime": "09:00",
@@ -668,14 +1085,641 @@
   },
   "timetables": [
     {
-      "id": "tt_1789136146883",
-      "name": "Alternativ 1",
-      "slots": [],
-      "dutyTeachers": {},
+      "id": "tt_1789143827656",
+      "name": "Alternativ 3",
+      "slots": [
+        {
+          "day": 4,
+          "slot": 1,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 1,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139957244",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 2,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 1,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 2,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139935026",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 1,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139935026",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 2,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789140002836",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 3,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139973821",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 1,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 1,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 1,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 1,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 1,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 2,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 2,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 2,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 2,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 2,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 3,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 3,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 3,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 3,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 1,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 1,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 1,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 1,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789139957244",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 1,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 2,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 2,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 2,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 2,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 2,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 3,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 3,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 3,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 3,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 3,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 4,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 4,
+          "classId": "c_1789134318619",
+          "subjectId": "sub_1789140002836",
+          "teacherId": "t_1789135450839",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 3,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139957244",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 4,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139957244",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 4,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 5,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 5,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789140002836",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 4,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139973821",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 5,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139935026",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 6,
+          "classId": "c_1789134305200",
+          "subjectId": "sub_1789139935026",
+          "teacherId": "t_1789135439476",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 1,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 1,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 1,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 1,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 2,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789139957244",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 2,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 2,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 2,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 1,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 3,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 2,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 3,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 3,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 3,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 4,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 4,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 5,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 5,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 3,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789139935026",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 3,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789139935026",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 4,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789139968017",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 4,
+          "classId": "c_1789134281277",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135426280",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 6,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 6,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 2,
+          "slot": 7,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 3,
+          "slot": 7,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135602582",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 1,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 2,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 5,
+          "slot": 2,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 1,
+          "slot": 3,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        },
+        {
+          "day": 4,
+          "slot": 3,
+          "classId": "c_1789134292797",
+          "subjectId": "sub_1789135607524",
+          "teacherId": "t_1789135432904",
+          "isPinned": false
+        }
+      ],
+      "dutyTeachers": {
+        "2": "Rufət"
+      },
       "pinnedClassIds": [],
       "pinnedTeacherIds": [],
-      "createdAt": "2026-09-11T18:15:46.884161"
+      "createdAt": "2026-09-11T20:23:47.662460"
     }
   ],
-  "activeTimetableId": "tt_1789136146883"
+  "activeTimetableId": "tt_1789143827656"
 }
